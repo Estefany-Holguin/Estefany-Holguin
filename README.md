@@ -1,13 +1,8 @@
 ## Hola 👋 mi nombre es Estefany 
-
-<!--
-**Estefany-Holguin/Estefany-Holguin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+## Sobre mi
  ### Soy estudiante del programa ingenieria de software, de la universidad Alexander Von Humboldt.
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+# Tengo 17 años
+# me gustan mucho los animales
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
